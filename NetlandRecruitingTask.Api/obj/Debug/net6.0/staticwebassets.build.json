@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "0c757dMZtO7qeIVlhkvry3mQacB7c05O5tSqwZwAtLM=",
+  "Source": "NetlandRecruitingTask.Api",
+  "BasePath": "_content/NetlandRecruitingTask.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "NetlandRecruitingTask.Api\\wwwroot",
+      "Source": "NetlandRecruitingTask.Api",
+      "ContentRoot": "C:\\Users\\bmielniczek\\source\\repos\\ZadaniaRekrutacyjne\\Netland\\NetlandRecruitingTask\\NetlandRecruitingTask.Api\\wwwroot\\",
+      "BasePath": "_content/NetlandRecruitingTask.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\bmielniczek\\source\\repos\\ZadaniaRekrutacyjne\\Netland\\NetlandRecruitingTask\\NetlandRecruitingTask.Api\\wwwroot\\OrdersTestData.csv",
+      "SourceId": "NetlandRecruitingTask.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmielniczek\\source\\repos\\ZadaniaRekrutacyjne\\Netland\\NetlandRecruitingTask\\NetlandRecruitingTask.Api\\wwwroot\\",
+      "BasePath": "_content/NetlandRecruitingTask.Api",
+      "RelativePath": "OrdersTestData.csv",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\OrdersTestData.csv"
+    }
+  ]
+}

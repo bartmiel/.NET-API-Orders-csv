@@ -1,0 +1,15 @@
+C:\Users\bmielniczek\source\repos\ZadaniaRekrutacyjne\Netland\NetlandRecruitingTask\NetlandRecruitingTask.Application\obj\Debug\net6.0\NetlandRecruitingTask.Application.csproj.AssemblyReference.cache
+C:\Users\bmielniczek\source\repos\ZadaniaRekrutacyjne\Netland\NetlandRecruitingTask\NetlandRecruitingTask.Application\obj\Debug\net6.0\NetlandRecruitingTask.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmielniczek\source\repos\ZadaniaRekrutacyjne\Netland\NetlandRecruitingTask\NetlandRecruitingTask.Application\obj\Debug\net6.0\NetlandRecruitingTask.Application.AssemblyInfoInputs.cache
+C:\Users\bmielniczek\source\repos\ZadaniaRekrutacyjne\Netland\NetlandRecruitingTask\NetlandRecruitingTask.Application\obj\Debug\net6.0\NetlandRecruitingTask.Application.AssemblyInfo.cs
+C:\Users\bmielniczek\source\repos\ZadaniaRekrutacyjne\Netland\NetlandRecruitingTask\NetlandRecruitingTask.Application\obj\Debug\net6.0\NetlandRecruitingTask.Application.csproj.CoreCompileInputs.cache
+C:\Users\bmielniczek\source\repos\ZadaniaRekrutacyjne\Netland\NetlandRecruitingTask\NetlandRecruitingTask.Application\bin\Debug\net6.0\NetlandRecruitingTask.Application.deps.json
+C:\Users\bmielniczek\source\repos\ZadaniaRekrutacyjne\Netland\NetlandRecruitingTask\NetlandRecruitingTask.Application\bin\Debug\net6.0\NetlandRecruitingTask.Application.dll
+C:\Users\bmielniczek\source\repos\ZadaniaRekrutacyjne\Netland\NetlandRecruitingTask\NetlandRecruitingTask.Application\bin\Debug\net6.0\NetlandRecruitingTask.Application.pdb
+C:\Users\bmielniczek\source\repos\ZadaniaRekrutacyjne\Netland\NetlandRecruitingTask\NetlandRecruitingTask.Application\bin\Debug\net6.0\NetlandRecruitingTask.Domain.dll
+C:\Users\bmielniczek\source\repos\ZadaniaRekrutacyjne\Netland\NetlandRecruitingTask\NetlandRecruitingTask.Application\bin\Debug\net6.0\NetlandRecruitingTask.Domain.pdb
+C:\Users\bmielniczek\source\repos\ZadaniaRekrutacyjne\Netland\NetlandRecruitingTask\NetlandRecruitingTask.Application\obj\Debug\net6.0\NetlandRecruitingTask.Application.csproj.CopyComplete
+C:\Users\bmielniczek\source\repos\ZadaniaRekrutacyjne\Netland\NetlandRecruitingTask\NetlandRecruitingTask.Application\obj\Debug\net6.0\NetlandRecruitingTask.Application.dll
+C:\Users\bmielniczek\source\repos\ZadaniaRekrutacyjne\Netland\NetlandRecruitingTask\NetlandRecruitingTask.Application\obj\Debug\net6.0\refint\NetlandRecruitingTask.Application.dll
+C:\Users\bmielniczek\source\repos\ZadaniaRekrutacyjne\Netland\NetlandRecruitingTask\NetlandRecruitingTask.Application\obj\Debug\net6.0\NetlandRecruitingTask.Application.pdb
+C:\Users\bmielniczek\source\repos\ZadaniaRekrutacyjne\Netland\NetlandRecruitingTask\NetlandRecruitingTask.Application\obj\Debug\net6.0\ref\NetlandRecruitingTask.Application.dll

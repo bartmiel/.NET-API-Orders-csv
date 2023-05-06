@@ -1,0 +1,12 @@
+C:\Users\bmielniczek\source\repos\ZadaniaRekrutacyjne\Netland\NetlandRecruitingTask\NetlandRecruitingTask.Domain\bin\Debug\net6.0\NetlandRecruitingTask.Domain.deps.json
+C:\Users\bmielniczek\source\repos\ZadaniaRekrutacyjne\Netland\NetlandRecruitingTask\NetlandRecruitingTask.Domain\bin\Debug\net6.0\NetlandRecruitingTask.Domain.dll
+C:\Users\bmielniczek\source\repos\ZadaniaRekrutacyjne\Netland\NetlandRecruitingTask\NetlandRecruitingTask.Domain\bin\Debug\net6.0\NetlandRecruitingTask.Domain.pdb
+C:\Users\bmielniczek\source\repos\ZadaniaRekrutacyjne\Netland\NetlandRecruitingTask\NetlandRecruitingTask.Domain\obj\Debug\net6.0\NetlandRecruitingTask.Domain.csproj.AssemblyReference.cache
+C:\Users\bmielniczek\source\repos\ZadaniaRekrutacyjne\Netland\NetlandRecruitingTask\NetlandRecruitingTask.Domain\obj\Debug\net6.0\NetlandRecruitingTask.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmielniczek\source\repos\ZadaniaRekrutacyjne\Netland\NetlandRecruitingTask\NetlandRecruitingTask.Domain\obj\Debug\net6.0\NetlandRecruitingTask.Domain.AssemblyInfoInputs.cache
+C:\Users\bmielniczek\source\repos\ZadaniaRekrutacyjne\Netland\NetlandRecruitingTask\NetlandRecruitingTask.Domain\obj\Debug\net6.0\NetlandRecruitingTask.Domain.AssemblyInfo.cs
+C:\Users\bmielniczek\source\repos\ZadaniaRekrutacyjne\Netland\NetlandRecruitingTask\NetlandRecruitingTask.Domain\obj\Debug\net6.0\NetlandRecruitingTask.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bmielniczek\source\repos\ZadaniaRekrutacyjne\Netland\NetlandRecruitingTask\NetlandRecruitingTask.Domain\obj\Debug\net6.0\NetlandRecruitingTask.Domain.dll
+C:\Users\bmielniczek\source\repos\ZadaniaRekrutacyjne\Netland\NetlandRecruitingTask\NetlandRecruitingTask.Domain\obj\Debug\net6.0\refint\NetlandRecruitingTask.Domain.dll
+C:\Users\bmielniczek\source\repos\ZadaniaRekrutacyjne\Netland\NetlandRecruitingTask\NetlandRecruitingTask.Domain\obj\Debug\net6.0\NetlandRecruitingTask.Domain.pdb
+C:\Users\bmielniczek\source\repos\ZadaniaRekrutacyjne\Netland\NetlandRecruitingTask\NetlandRecruitingTask.Domain\obj\Debug\net6.0\ref\NetlandRecruitingTask.Domain.dll
